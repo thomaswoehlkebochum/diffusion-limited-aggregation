@@ -1,6 +1,6 @@
 # diffusion-limited-aggregation
 
-![Java CI with Maven](https://github.com/Computer-Kurzweil/diffusion-limited-aggregation/workflows/Java%20CI%20with%20Maven/badge.svg) 
+![Java CI with Maven](https://github.com/thomaswoehlkebochum/diffusion-limited-aggregation/workflows/Java%20CI%20with%20Maven/badge.svg) 
 
 Fractals and random walk due to Brownian motion cluster
 
@@ -25,12 +25,12 @@ The clusters formed in DLA processes are referred to as Brownian trees. These cl
 
 
 ## Repositories
-* [Github Repository](https://github.com/Computer-Kurzweil/diffusion-limited-aggregation)
+* [Github Repository](https://github.com/thomaswoehlkebochum/diffusion-limited-aggregation)
 * [Maven Project Reports](https://java.woehlke.org/diffusion-limited-aggregation/readme2.html)
     
 ## Run the Desktop Application
 ```
-git clone https://github.com/Computer-Kurzweil/diffusion-limited-aggregation.git
+git clone https://github.com/thomaswoehlkebochum/diffusion-limited-aggregation.git
 cd diffusion-limited-aggregation
 ./mvnw
 ```

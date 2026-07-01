@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.woehlke.computer.kurzweil</groupId>
         <artifactId>computer-kurzweil-parent</artifactId>
-        <version>1.0.7-SNAPSHOT</version>
+        <version>1.0.7</version>
     </parent>
 
     <artifactId>diffusion-limited-aggregation</artifactId>
@@ -20,14 +20,14 @@
     <inceptionYear>2013</inceptionYear>
 
     <scm>
-        <connection>scm:git:git@github.com:Computer-Kurzweil/diffusion-limited-aggregation.git</connection>
-        <developerConnection>scm:git:git@github.com:Computer-Kurzweil/diffusion-limited-aggregation.git</developerConnection>
-        <url>https://github.com/Computer-Kurzweil/diffusion-limited-aggregation/tree/${project.scm.tag}</url>
+        <connection>scm:git:git@github.com:thomaswoehlkebochum/diffusion-limited-aggregation.git</connection>
+        <developerConnection>scm:git:git@github.com:thomaswoehlkebochum/diffusion-limited-aggregation.git</developerConnection>
+        <url>https://github.com/thomaswoehlkebochum/diffusion-limited-aggregation/tree/${project.scm.tag}</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/Computer-Kurzweil/diffusion-limited-aggregation/issues/</url>
+        <url>https://github.com/thomaswoehlkebochum/diffusion-limited-aggregation/issues/</url>
         <system>GitHub</system>
     </issueManagement>
 
@@ -50,7 +50,7 @@
 
     <organization>
         <name>Computer Kurzweil</name>
-        <url>https://github.com/Computer-Kurzweil</url>
+        <url>https://github.com/thomaswoehlkebochum</url>
     </organization>
 
     <licenses>

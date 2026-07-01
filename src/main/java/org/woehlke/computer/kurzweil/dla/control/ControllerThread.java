@@ -14,7 +14,7 @@ import java.io.Serializable;
  *
  * @see <a href="https://thomas-woehlke.blogspot.com/2016/01/diffusion-limited-aggregation.html">Blog Arrticle</a>
  * @see <a href="https://java.woehlke.org/diffusion-limited-aggregation">Maven Project Page</a>
- * @see <a href="https://github.com/Computer-Kurzweil/diffusion-limited-aggregation">Github</a>
+ * @see <a href="https://github.com/thomaswoehlkebochum/diffusion-limited-aggregation">Github</a>
  *
  * Date: 05.02.2006
  * Time: 00:36:20
