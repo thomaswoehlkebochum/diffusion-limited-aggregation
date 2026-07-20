@@ -51,7 +51,7 @@ public class WorldCanvas extends JComponent implements Serializable {
         g.fillRect(0,0,width,height);
         g.setColor(PARTICLES);
         for(Point pixel: model.getParticles()){
-            g.drawLine(pixel.getX(),pixel.getY(),pixel.getX(),pixel.getY());
+            g.drawRect(pixel.getX(),pixel.getY(),1,1);
         }
         for(int y=0;y<worldDimensions.getY();y++){
             for(int x=0;x<worldDimensions.getX();x++){
@@ -63,7 +63,7 @@ public class WorldCanvas extends JComponent implements Serializable {
                     int red = 255;
                     Color ageColor = new Color(red,green,blue);
                     g.setColor(ageColor);
-                    g.drawLine(x,y,x,y);
+                    g.drawRect(x,y,1,1);
                 }
             }
         }
