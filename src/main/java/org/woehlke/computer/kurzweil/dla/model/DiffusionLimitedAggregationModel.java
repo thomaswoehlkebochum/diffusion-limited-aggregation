@@ -2,8 +2,6 @@ package org.woehlke.computer.kurzweil.dla.model;
 
 import lombok.Getter;
 import org.woehlke.computer.kurzweil.dla.config.ComputerKurzweilProperties;
-import org.woehlke.computer.kurzweil.dla.model.dendrite.Dendrite;
-import org.woehlke.computer.kurzweil.dla.model.dendrite.Point;
 
 import java.io.Serializable;
 import java.util.ArrayList;

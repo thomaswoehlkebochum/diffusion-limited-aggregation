@@ -4,8 +4,7 @@ import lombok.Getter;
 import org.woehlke.computer.kurzweil.dla.config.ComputerKurzweilProperties;
 import org.woehlke.computer.kurzweil.dla.control.ControllerThread;
 import org.woehlke.computer.kurzweil.dla.model.DiffusionLimitedAggregationModel;
-import org.woehlke.computer.kurzweil.dla.model.dendrite.Point;
-import org.woehlke.computer.kurzweil.dla.view.canvas.WorldCanvas;
+import org.woehlke.computer.kurzweil.dla.model.Point;
 
 import javax.accessibility.Accessible;
 import javax.swing.*;

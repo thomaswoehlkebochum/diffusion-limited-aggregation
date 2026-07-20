@@ -1,8 +1,8 @@
-package org.woehlke.computer.kurzweil.dla.view.canvas;
+package org.woehlke.computer.kurzweil.dla.view;
 
 import lombok.Getter;
 import org.woehlke.computer.kurzweil.dla.model.DiffusionLimitedAggregationModel;
-import org.woehlke.computer.kurzweil.dla.model.dendrite.Point;
+import org.woehlke.computer.kurzweil.dla.model.Point;
 
 import javax.swing.*;
 import java.awt.*;

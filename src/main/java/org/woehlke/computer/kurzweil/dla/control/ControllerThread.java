@@ -2,7 +2,7 @@ package org.woehlke.computer.kurzweil.dla.control;
 
 import org.woehlke.computer.kurzweil.dla.model.DiffusionLimitedAggregationModel;
 import org.woehlke.computer.kurzweil.dla.view.DiffusionLimitedAggregationFrame;
-import org.woehlke.computer.kurzweil.dla.view.canvas.WorldCanvas;
+import org.woehlke.computer.kurzweil.dla.view.WorldCanvas;
 
 import java.io.Serializable;
 

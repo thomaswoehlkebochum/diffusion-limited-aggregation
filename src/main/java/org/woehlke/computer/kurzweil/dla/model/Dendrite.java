@@ -1,4 +1,4 @@
-package org.woehlke.computer.kurzweil.dla.model.dendrite;
+package org.woehlke.computer.kurzweil.dla.model;
 
 
 import java.io.Serializable;
